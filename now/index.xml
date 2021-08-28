@@ -2,10 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>t3bol90&#39;s Blog</title>
-    <link>https://example.com/now/</link>
+    <link>https://t3bol90.github.io/now/</link>
     <description>Recent content on t3bol90&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright><atom:link href="https://example.com/now/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright><atom:link href="https://t3bol90.github.io/now/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

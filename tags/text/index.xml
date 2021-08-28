@@ -2,18 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>text on t3bol90&#39;s Blog</title>
-    <link>https://example.com/tags/text/</link>
+    <link>https://t3bol90.github.io/tags/text/</link>
     <description>Recent content in text on t3bol90&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/text/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://t3bol90.github.io/tags/text/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Placeholder Text</title>
-      <link>https://example.com/post/placeholder-text/</link>
+      <link>https://t3bol90.github.io/post/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/placeholder-text/</guid>
+      <guid>https://t3bol90.github.io/post/placeholder-text/</guid>
       <description>
         
           &lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;
