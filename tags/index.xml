@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on t3bol90</title>
-    <link>/tags/</link>
+    <link>http://t3bol90.github.io/tags/</link>
     <description>Recent content in Tags on t3bol90</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright © 2020–2021, Toan Doan.</copyright><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2020–2021, Toan Doan.</copyright><atom:link href="http://t3bol90.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
