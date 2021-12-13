@@ -2,36 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://t3bol90.github.io/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2021-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://t3bol90.github.io/post/13dec2021/</loc>
+    <loc>/post/13dec2021/</loc>
     <lastmod>2021-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://t3bol90.github.io/series/my-logs/</loc>
+    <loc>/series/my-logs/</loc>
     <lastmod>2021-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://t3bol90.github.io/categories/personal/</loc>
+    <loc>/categories/personal/</loc>
     <lastmod>2021-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://t3bol90.github.io/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2021-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://t3bol90.github.io/series/</loc>
+    <loc>/series/</loc>
     <lastmod>2021-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://t3bol90.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2021-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://t3bol90.github.io/now/</loc>
+    <loc>/now/</loc>
     <lastmod>2021-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://t3bol90.github.io/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2020-12-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://t3bol90.github.io/archives/</loc>
+    <loc>/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://t3bol90.github.io/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
